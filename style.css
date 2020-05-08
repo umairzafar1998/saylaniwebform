@@ -1,0 +1,45 @@
+#icons{
+    color: white;
+    border: 1px solid rgb(8, 110, 199);
+}
+#icons:hover{
+    color: white;
+    background-color: blue;
+}
+#l1{
+    background-color:white ;
+}
+#link{
+    color: white;
+    background-color: rgb(8, 110, 199);
+    border: 1px solid rgb(8, 110, 199);
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: small;
+}
+#links{
+    color: black;
+    border: 1px solid white;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: small;
+}
+#links:hover{
+    color: white;
+    background-color: rgb(8, 110, 199);
+    transition: 0.3s;
+}
+#icon1{
+    color: white;
+    border: 1px solid rgb(8, 110, 199);
+    background-color: rgb(8, 110, 199);
+    border-radius: 20px;
+    font-size: larger;
+}
+#icons1{
+    color: white;
+    border: 1px solid rgb(8, 110, 199);
+    background-color: rgb(8, 110, 199);
+    border-radius: 20px;
+    font-size:small;
+}
